@@ -1,6 +1,4 @@
-- 👋 Hi, I’m a @strugglingllama
-- 👀 I’m interested in Machine learning algorithms and programming in general
-- 🌱 I’m currently learning Python and want to get better
+- 👋 Hi
 
 
 
